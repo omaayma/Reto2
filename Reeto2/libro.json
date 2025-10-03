@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "El Quijote",
+    "autor": "Miguel de Cervantes",
+    "precio": 19.95,
+    "paginas": 863
+  },
+  {
+    "titulo": "Cien Años de Soledad",
+    "autor": "Gabriel García Márquez",
+    "precio": 25.5,
+    "paginas": 417
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "precio": 15.75,
+    "paginas": 328
+  }
+]
